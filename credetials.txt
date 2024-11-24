@@ -1,0 +1,2 @@
+name=bukira sophonie
+password = 123soponie
