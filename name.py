@@ -33,7 +33,7 @@ class Book:
 
 
 # Example usage
-book1 = Book("To Kill a Mockingbird", "Harper Lee", 1960)
+book1 = Book("programming", "Harper Lee", 1960)
 book1.display_info()
 print(f"Age: {book1.calculate_age()}")
 print(f"Is old: {book1.is_old()}")
